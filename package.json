@@ -1,0 +1,17 @@
+{
+  "name": "reactpackage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "console log colors"
+  ],
+  "author": "Saurav Khatiwada <saurav@hazesoft.co>",
+  "license": "CSIT",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
